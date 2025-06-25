@@ -13,6 +13,7 @@ Interactive Discord bot for a text based game
 
 ### Current interests
 I really like machine learning/general algorithm approaches that either take inspiration from nature (eg ant algorithm) or are elegant in their simplicity (eg, MENACE)
+/h
 I'm currently working on ethical webscraping for general information (ASDHASDJAS)
 I'm interested in generating functions and the way they're able to efficiently store information as well as their capacity to act as unique identifiers, I am also interested in approaches/corrections for (arbitrary) decisions, such as the 5% significance level
 Outside of stats and coding, I enjoy baking, playing badminton and taking long walks
