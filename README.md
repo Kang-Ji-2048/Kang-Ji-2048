@@ -28,7 +28,7 @@ Statistics Side
 I also have a cloud practicitioners qualification for AWS, and attended a cybersecurity course subsidised by GCHQ for 2021 and 2022
 
 ### Favourite Quotes :) 
-> Strange, it is a huge nothing that we fear - Seamus Heaney
+> Strange, it is a huge nothing that we fear - Seamus Heaney \
 > All models are wrong, some are useful - George Box
 
 
