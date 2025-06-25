@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a 2nd year student at UCL studying Bsc Data Science, I really like machine learning/general algorithm approaches that either take inspiration from nature (eg the Ant algorithm) or are elegant in their simplicity (eg, MENACE). I'm also interested in generating functions and the way they're able to efficiently store information as well as their capacity to act as unique identifiers, I am also interested in approaches/corrections for (arbitrary) decisions, such as the 5% significance level\
+I'm a 2nd year student at UCL studying Bsc Data Science, I really like machine learning/general algorithm approaches that either take inspiration from nature (eg the Ant algorithm) or are elegant in their simplicity (eg, MENACE). I'm also interested in the way generating functions are able to store so much information as well as their uniqueness. I am also interested in approaches/corrections for (arbritrary) decisions, such as the 5% significance level\
 Outside of stats and coding, I enjoy baking, playing badminton and taking long walks and spending time with my 🐐
 
 ### Projects and fun competitions (in order of value)
@@ -11,14 +11,16 @@ Outside of stats and coding, I enjoy baking, playing badminton and taking long w
 - Themepark Modelling with Python
 
 ### Learning 🎓
-I'm currently learning (ethical) webscraping in python, in particular with BeautifulSoup4 And Selenium
+I am currently earning about (ethical) webscraping in my free time as well as trying to bake a souffle.\
+I am also trying to create a new generating function
 
 ### Skills and Qualifications
 
-Coding side
-- Python (Machine learning, data wrangling, webscraping)
-- R (Modelling, data wrangling)
+Coding languages
+- Python (Machine learning, Webscraping, OOP)
+- R (Modelling, data wrangling, pretty graphs :) )
 - SQL (Database design, implementation and queries)
+- HTML (Basic webpage design)
 
 Statistics Side
 - Multivariate linear regression 
