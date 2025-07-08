@@ -13,7 +13,7 @@ Outside of stats and coding, I enjoy baking, playing badminton and taking long w
 
 ### Learning 🎓
 I am currently learning about (ethical) webscraping in my free time as well as trying to bake a souffle.\
-I am also trying to create a new generating function
+I am also trying to 
 
 ### Skills and Qualifications
 
