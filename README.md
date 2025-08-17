@@ -1,26 +1,25 @@
 ## Hi there 👋
 
-I'm a 2nd year Bsc Data Science student at UCL, I really like machine learning/general algorithm approaches that either take inspiration from nature (eg the Ant algorithm) or are otherwise elegant in their approach (eg, MENACE). I'm also interested in the way generating functions are able to store so much information as well as their uniqueness. I am also interested in approaches/corrections for (arbritrary) decisions, such as the 5% significance level and various corrections.\
+I'm a 2nd year Bsc Data Science student at UCL, I  like machine learning/general algorithm approaches that either take inspiration from nature (eg the Ant algorithm) or are otherwise elegant in their approach (eg, MENACE).\
 Outside of stats and coding, I enjoy baking, playing badminton and taking long walks and spending time with my 🐐
 
-### Projects and fun competitions (in order of value)
-- TSP modelling for Badminton footwork (Ant algorithm, simulated annealing, Concorde) 
+### Projects and fun competitions
+- TSP modelling for Badminton footwork (Simulated annealing, Ant algorithm, Concorde) 
 - Hospital General Information and statistics scraping and data wrangling (Mainly BS4 and Selenium for scraping and pandas for wrangling)
+- Anomaly detection through random forest
 - CanSat competition with The European Space Agency (ESA)
-- MYSQL Charity database design and implementation for tracking SDGs 
-- Statistical analysis of ArXiv physics papers over time 
-- Themepark modelling with Python (OOP)
+- MYSQL Charity database design and implementation for tracking progress towards SDGs 
+- Data Extraction from articles using NLPs and pipelines (HuggingFace, NuExtract)
 
 ### Learning 🎓
-I am currently learning about (ethical) webscraping in my free time as well as trying to bake a souffle.\
-I am also trying to 
+Currently, I am learning more about NLPs (specifically Numind related)
 
 ### Skills and Qualifications
 
 Coding languages
-- Python (Machine learning, Webscraping, OOP)
+- Python (Machine learning, webscraping, NLPs)
 - R (Modelling, data wrangling, pretty graphs :) )
-- SQL (Database design, implementation and queries)
+- SQL (Database design, implementation, queries)
 - HTML (Basic webpage design)
 
 Statistics Side
@@ -29,12 +28,10 @@ Statistics Side
 - Standard 1st year statistics (Confidence intervals, generating functions, Classical and Bayesian approaches to probability, etc)
 - Standard 1st year mathematics (Multivariable calculus, linear algebra, etc)
 
-I also have a cloud practicitioners qualification for AWS, and attended a cybersecurity course subsidised by GCHQ for 2021 and 2022
-
 ### Favourite Quotes :) 
 > Strange, it is a huge nothing that we fear - Seamus Heaney \
 > All models are wrong, some are useful - George Box \
-> Can I actually lock in for once please? - Me 
+> Can I actually do work please?
 
 
 <!--
