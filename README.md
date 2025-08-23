@@ -1,41 +1,77 @@
 ## Hi there 👋
 
-I'm a 2nd year Bsc Data Science student at UCL, I  like machine learning/general algorithm approaches that either take inspiration from nature (eg the Ant algorithm) or are otherwise elegant in their approach (eg, MENACE).\
-Outside of stats and coding, I enjoy baking, playing badminton and taking long walks and spending time with my 🐐
+🎓 2nd year **BSc Data Science student at UCL**  
+🤖 Passionate about **machine learning, optimization algorithms**, and **nature-inspired algorithms**  
+🌱 Exploring **NLP (Numind-related)** and advanced **Markov chain modelling**  
+🍞 Outside of stats and coding, I enjoy baking, playing badminton, and walking with my 🐐
 
-### Projects and fun competitions
-- TSP modelling for Badminton footwork (Simulated annealing, Ant algorithm, Concorde) 
-- Hospital General Information and statistics scraping and data wrangling (Mainly BS4 and Selenium for scraping and pandas for wrangling)
-- Anomaly detection through random forest
-- CanSat competition with The European Space Agency (ESA)
-- MYSQL Charity database design and implementation for tracking progress towards SDGs 
-- Data Extraction from articles using NLPs and pipelines (HuggingFace, NuExtract)
+### 🚀 Projects & Competitions
 
-### Learning 🎓
-Currently, I am learning more about NLPs (specifically Numind related)
+- 🏸 **TSP Modelling for Badminton Footwork**  
+  Optimized badminton footwork using **Simulated Annealing**, **Ant Colony Optimization**, and **Concorde solver**.
 
-### Skills and Qualifications
+- 🏥 **Hospital Information Scraper & Data Wrangling**  
+  Automated data collection with **Selenium + BeautifulSoup**, and processed 10k+ hospital stats using **pandas**.
 
-Coding languages
-- Python (Machine learning, webscraping, NLPs)
-- R (Modelling, data wrangling, pretty graphs :) )
-- SQL (Database design, implementation, queries)
-- HTML (Basic webpage design)
+- 🌲 **Anomaly Detection with Random Forests**  
+  Built a machine learning pipeline for identifying outliers in structured datasets.
 
-Statistics Side
-- Multivariate linear regression 
-- Stochastic processes (with a particular interest in Markov chain modelling)
-- Standard 1st year statistics (Confidence intervals, generating functions, Classical and Bayesian approaches to probability, etc)
-- Standard 1st year mathematics (Multivariable calculus, linear algebra, etc)
+- 🛰️ **CanSat Competition (ESA)**  
+  Designed, built, and deployed a mini-satellite with onboard sensors in collaboration with the **European Space Agency**.
+
+- 🌍 **Charity Database (MySQL)**  
+  Designed and implemented a **relational database** for tracking NGO projects and progress towards the **UN SDGs**.
+
+- 📰 **NLP Article Data Extraction**  
+  Built pipelines using **HuggingFace** and **NuExtract** for extracting structured insights from unstructured articles.
+
+
+
+### 📚 Currently Learning
+- Advanced NLP pipelines (Numind, HuggingFace)  
+- Probabilistic modelling & Markov processes  
 
 ### Favourite Quotes :) 
 > Strange, it is a huge nothing that we fear - Seamus Heaney \
 > All models are wrong, some are useful - George Box \
-> Can I actually do work please?
+> I don't know anything, but I do know that everything is interesting if you go into it deeply enough - Richard Feynman \
+
+
+### 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 <!--
+
+### 🚀 Projects & Competitions
+
+- 🏸 [**TSP Modelling for Badminton Footwork**](https://github.com/Kang-Ji-2048/TSP-Badminton)  
+  Optimized badminton footwork using **Simulated Annealing**, **Ant Colony Optimization**, and **Concorde solver**.
+
+- 🏥 [**Hospital Information Scraper & Data Wrangling**](https://github.com/Kang-Ji-2048/Hospital-Scraper)  
+  Automated data collection with **Selenium + BeautifulSoup**, and processed 10k+ hospital stats using **pandas**.
+
+- 🌲 [**Anomaly Detection with Random Forests**](https://github.com/Kang-Ji-2048/Anomaly-Detection)  
+  Built a machine learning pipeline for identifying outliers in structured datasets.
+
+- 🛰️ [**CanSat Competition (ESA)**](https://github.com/Kang-Ji-2048/CanSat-ESA)  
+  Designed, built, and deployed a mini-satellite with onboard sensors in collaboration with the **European Space Agency**.
+
+- 🌍 [**Charity Database (MySQL)**](https://github.com/Kang-Ji-2048/Charity-DB)  
+  Designed and implemented a **relational database** for tracking NGO projects and progress towards the **UN SDGs**.
+
+- 📰 [**NLP Article Data Extraction**](https://github.com/Kang-Ji-2048/NLP-Extraction)  
+  Built pipelines using **HuggingFace** and **NuExtract** for extracting structured insights from unstructured articles.
+
+
+
 **Kang-Ji-2048/Kang-Ji-2048** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
