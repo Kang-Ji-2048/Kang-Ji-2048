@@ -4,7 +4,7 @@
 
 I build things at the intersection of **machine learning**, **optimisation**, and **data engineering**. Recent highlight: **1st place at the NVIDIA × Lenovo Hackathon** (London, Mar 2026), deploying Microsoft Aurora for hyperlocal weather forecasting on NVIDIA DGX.
 
-Outside of stats and coding, I enjoy baking, playing badminton, and going on long walks with my 🐐.
+Outside of stats and coding, I enjoy baking, playing badminton, and going on long walks.
 
 Previously: Data Science/SDE Intern @ **IQVIA** · Summer Intern @ **Subsea7**
 
