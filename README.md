@@ -6,7 +6,8 @@ I build things at the intersection of **machine learning**, **optimisation**, an
 
 Outside of stats and coding, I enjoy baking, playing badminton, and going on long walks.
 
-Previously: Data Science/SDE Intern @ **IQVIA** · Summer Intern @ **Subsea7**
+Currently: SWE Intern @ **NatWest Group**
+Previously: Data Science/SDE Intern @ **IQVIA** ·  Technology Intern @ **Subsea7**
 
 ---
 
