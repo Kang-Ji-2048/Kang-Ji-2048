@@ -25,11 +25,10 @@ Previously: Data Science/SDE Intern @ **IQVIA** ·  Technology Intern @ **Subsea
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
-| [NVIDIA × Lenovo Hackathon (1st Place)](https://github.com/manocw/YellowDuck2) | Python, NVIDIA DGX, Aurora | Hyperlocal atmospheric forecasting for stargazing locations |
-| [F1 Data Pipeline](https://github.com/Kang-Ji-2048/F1-Pipeline) | Python, pandas, SQL, Airflow | End-to-end pipeline ingesting and transforming Formula 1 race data for my F1 fantasy predictions :) |
-| [Climate Finance Dashboard](https://github.com/Kang-Ji-2048/Climate-Dashboard) | Python, Plotly, Dash, ETL | Interactive visualisation of global climate investment flows (OECD, IRENA, World Bank) |
-| [Hospital Scraper & Pipeline](https://github.com/Kang-Ji-2048/Hospital-Scraper) | Selenium, BeautifulSoup, pandas | Scraped 2,000+ hospital sites, processed 10k+ records |
-| [NLP Data Extraction](https://github.com/Kang-Ji-2048/NLP-Extraction) | HuggingFace, NuExtract | Structured insight extraction from unstructured articles |
+| **NVIDIA × Lenovo Hackathon — 1st Place** | Python, PyTorch, NVIDIA DGX, Aurora | Hyperlocal atmospheric forecasting for stargazing locations (team of 4 — repo to follow) |
+| [Manifest — Selective Disclosure](https://github.com/Kang-Ji-2048/manifest-selective-disclosure) | React, Vite, ZK proofs, differential privacy | Privacy-preserving selective-disclosure prototype for Amnesty International APAC (UCL Innovation Fest 2026) |
+| [F1 Data Pipeline](https://github.com/Kang-Ji-2048/f1-pipeline) | Python, PostgreSQL, SQLAlchemy, CI | End-to-end pipeline ingesting & transforming Formula 1 race data — for my fantasy predictions :) |
+| [Climate Finance Dashboard](https://github.com/Kang-Ji-2048/climate-finance-dashboard) | Python, Plotly, Dash, Netlify | Interactive visualisation of global climate investment flows (OECD, IRENA, World Bank) |
 
 
 
