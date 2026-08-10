@@ -1,6 +1,6 @@
 # Hey, I'm Kang 👋
 
-**BSc Data Science @ UCL** | Class of 2027 | First Class Honours (82% Y1)
+**BSc Data Science @ UCL** | Class of 2027 | First Class Honours (81% Average)
 
 I build things at the intersection of **machine learning**, **optimisation**, and **data engineering**. Recent highlight: **1st place at the NVIDIA × Lenovo Hackathon** (London, Mar 2026), deploying Microsoft Aurora for hyperlocal weather forecasting on NVIDIA DGX.
 
@@ -25,7 +25,7 @@ Previously: Data Science/SDE Intern @ **IQVIA** ·  Technology Intern @ **Subsea
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
-| **NVIDIA × Lenovo Hackathon — 1st Place** | Python, PyTorch, NVIDIA DGX, Aurora | Hyperlocal atmospheric forecasting for stargazing locations (team of 4 — repo to follow) |
+| [NVIDIA X Lenovo Hackathon, 1st Place](https://github.com/Kang-Ji-2048/aurora-air-quality-forecast) | Python, PyTorch, NVIDIA DGX, Aurora | Hyperlocal atmospheric forecasting for stargazing locations |
 | [Manifest — Selective Disclosure](https://github.com/Kang-Ji-2048/manifest-selective-disclosure) | React, Vite, ZK proofs, differential privacy | Privacy-preserving selective-disclosure prototype for Amnesty International APAC (UCL Innovation Fest 2026) |
 | [F1 Data Pipeline](https://github.com/Kang-Ji-2048/f1-pipeline) | Python, PostgreSQL, SQLAlchemy, CI | End-to-end pipeline ingesting & transforming Formula 1 race data — for my fantasy predictions :) |
 | [Climate Finance Dashboard](https://github.com/Kang-Ji-2048/climate-finance-dashboard) | Python, Plotly, Dash, Netlify | Interactive visualisation of global climate investment flows (OECD, IRENA, World Bank) |
