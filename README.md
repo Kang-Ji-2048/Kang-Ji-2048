@@ -13,10 +13,10 @@ Previously: Data Science/SDE Intern @ **IQVIA** ·  Technology Intern @ **Subsea
 
 ### What I work on
 
-- **ML & NLP** — Fine-tuned LLM inference pipelines, information extraction from long-text clinical data (HuggingFace, PyTorch)
-- **Optimisation** — Modelled badminton footwork as a TSP variant using Simulated Annealing, Ant Colony Optimisation, and Concorde
-- **Data Engineering** — ETL pipelines processing 5,000+ hospital datasets; automated web scraping at scale (Selenium, BeautifulSoup)
-- **Embedded Systems** — ESA CanSat competition: built and deployed a mini-satellite with onboard sensors (top 10 nationally)
+- **ML & NLP**, Fine-tuned LLM inference pipelines, information extraction from long-text clinical data (HuggingFace, PyTorch)
+- **Optimisation**, Modelled badminton footwork as a TSP variant using Simulated Annealing, Ant Colony Optimisation, and Concorde
+- **Data Engineering**, ETL pipelines processing 5,000+ hospital datasets; automated web scraping at scale (Selenium, BeautifulSoup)
+- **Embedded Systems**, ESA CanSat competition: built and deployed a mini-satellite with onboard sensors (top 10 nationally)
 
 ### Stuff To-Do
 - Sentiment analysis bot with NLP as a potential alternative to classical surveys (e.g. YouGov)
@@ -33,8 +33,6 @@ Previously: Data Science/SDE Intern @ **IQVIA** ·  Technology Intern @ **Subsea
 
 
 ### Favourite quotes
-
-> *All models are wrong, some are useful.* — George Box
 
 > *I don't know anything, but I do know that everything is interesting if you go into it deeply enough.* — Richard Feynman
 
