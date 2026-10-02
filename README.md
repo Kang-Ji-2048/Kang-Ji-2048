@@ -1,10 +1,19 @@
 # Hey, I'm Kang 👋
 
-**BSc Data Science @ UCL** | Class of 2027 | First Class Honours (81% Average)
+**Data Science @ UCL** | First Class Honours (81% Average)
 
-I build things at the intersection of **machine learning**, **optimisation**, and **data engineering**. Recent highlight: **1st place at the NVIDIA × Lenovo Hackathon** (London, Mar 2026), deploying Microsoft Aurora for hyperlocal weather forecasting on NVIDIA DGX.
+🌐 **[kang-ji-2048.github.io](https://kang-ji-2048.github.io/)**: projects, experience and blog
 
-Outside of stats and coding, I enjoy baking, playing badminton, and going on long walks.
+
+I enjoy building and working on things that help me :)
+
+Whether that's optimising badminton footwork so I can beat my friends, an app to help me figure out what to cook for dinner, or finding the best spots to stargaze, I like working on projects end to end: understanding the problem, exploring and learning through different approaches and then making something I (and others!) can use.
+
+So far, I've been lucky that my work has taken me across a wide range of industries such as banking, healthcare and engineering, from NLP and ETL data pipelines to internal software tools and optimisation. I’m interested in both how to extract data and how to best use it to derive insights.
+
+Overall I'm a pretty big fan of modelling and machine learning (MENACE is pretty cool for when it was made, look it up!). At UCL, my dissertation focuses on sampling as optimisation for machine learning.
+
+Away from a screen, you'll probably find me playing badminton, baking, hiking or making dorodango.
 
 Currently: SWE Intern @ **NatWest Group**
 Previously: Data Science/SDE Intern @ **IQVIA** ·  Technology Intern @ **Subsea7**
@@ -13,24 +22,21 @@ Previously: Data Science/SDE Intern @ **IQVIA** ·  Technology Intern @ **Subsea
 
 ### What I work on
 
-- **ML & NLP**, Fine-tuned LLM inference pipelines, information extraction from long-text clinical data (HuggingFace, PyTorch)
-- **Optimisation**, Modelled badminton footwork as a TSP variant using Simulated Annealing, Ant Colony Optimisation, and Concorde
-- **Data Engineering**, ETL pipelines processing 5,000+ hospital datasets; automated web scraping at scale (Selenium, BeautifulSoup)
-- **Embedded Systems**, ESA CanSat competition: built and deployed a mini-satellite with onboard sensors (top 10 nationally)
+- **Software engineering**: AI integrations and internal tooling in banking. Atlassian Forge apps and MCP servers that connect internal tools to agents on AWS Bedrock and Azure AI Foundry, plus Django apps with CI/CD at 98% test coverage
+- **ML & NLP**: fine-tuned LLM inference pipelines and information extraction from long clinical and regulatory documents (10,000+ tokens), outperforming a GPT-4 baseline (HuggingFace, PyTorch)
+- **Data engineering**: ETL pipelines across 5,000+ hospital datasets, cutting collection time by 45%; automated scraping of 2,000+ hospital websites (Selenium, BeautifulSoup)
+- **Optimisation**: badminton footwork modelled as a TSP variant with Simulated Annealing, Ant Colony Optimisation and Concorde, cutting distance travelled per point by 24%
 
-### Stuff To-Do
-- Sentiment analysis bot with NLP as a potential alternative to classical surveys (e.g. YouGov)
 
 ### Featured projects
 
 | Project | Stack | What it does |
 |---------|-------|-------------|
-| [NVIDIA X Lenovo Hackathon, 1st Place](https://github.com/Kang-Ji-2048/aurora-air-quality-forecast) | Python, PyTorch, NVIDIA DGX, Aurora | Hyperlocal atmospheric forecasting for stargazing locations |
-| [Manifest — Selective Disclosure](https://github.com/Kang-Ji-2048/manifest-selective-disclosure) | React, Vite, ZK proofs, differential privacy | Privacy-preserving selective-disclosure prototype for Amnesty International APAC (UCL Innovation Fest 2026) |
-| [F1 Data Pipeline](https://github.com/Kang-Ji-2048/f1-pipeline) | Python, PostgreSQL, SQLAlchemy, CI | End-to-end pipeline ingesting & transforming Formula 1 race data — for my fantasy predictions :) |
-| [Climate Finance Dashboard](https://github.com/Kang-Ji-2048/climate-finance-dashboard) | Python, Plotly, Dash, Netlify | Interactive visualisation of global climate investment flows (OECD, IRENA, World Bank) |
-
-
+| [ScrollSaver](https://github.com/Kang-Ji-2048/canva-hackathon) <br>Canva Hackathon, 1st place | HTML, CSS, JavaScript, Canva Code | Friends pledge into a weekly pot and scroll less for a bigger share, with an itemised screen-time receipt every Sunday |
+| [AstroDuck](https://github.com/Kang-Ji-2048/aurora-air-quality-forecast) <br>NVIDIA × Lenovo Hackathon, 1st place | Python, PyTorch, Microsoft Aurora, NVIDIA DGX, React | Air-quality and atmospheric forecasting for 117 UK observatories, plus a React stargazing planner (the demo uses sample forecasts) |
+| [What Can I Cook?](https://github.com/Kang-Ji-2048/Google-Deepmind-X-Corgi) <br>Google DeepMind × Corgi Cafe | Next.js, TypeScript, Tailwind CSS, Gemma | Turns fridge and pantry photos into source-backed recipes, filtered by cuisine, cooking time and dietary needs |
+| [Manifest — Selective Disclosure](https://github.com/Kang-Ji-2048/manifest-selective-disclosure) <br>UCL Innovation Fest 2026 | React, Vite, ZK proofs, BBS+, differential privacy | Privacy-preserving selective-disclosure prototype for Amnesty International APAC: shows collective impact without exposing witnesses |
+| [F1 Data Pipeline](https://github.com/Kang-Ji-2048/f1-pipeline) | Python, PostgreSQL, SQLAlchemy, Pydantic, Docker, Streamlit | End-to-end pipeline ingesting & transforming Formula 1 race data, with a points-prediction model and dashboard — for my fantasy predictions :) |
 
 ### Favourite quotes
 
@@ -51,7 +57,12 @@ Previously: Data Science/SDE Intern @ **IQVIA** ·  Technology Intern @ **Subsea
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
-**Let's connect!** [LinkedIn](https://www.linkedin.com/in/kang-ji-datsci/) · [Email](mailto:jik2048@gmail.com)
+**Let's connect!** [Website](https://kang-ji-2048.github.io/) · [LinkedIn](https://www.linkedin.com/in/kang-ji-datsci/) · [Email](mailto:jik2048@gmail.com)
