@@ -2,9 +2,6 @@
 
 **Data Science @ UCL** | First Class Honours (81% Average)
 
-🌐 **[kang-ji-2048.github.io](https://kang-ji-2048.github.io/)**: projects, experience and blog
-
-
 I enjoy building and working on things that help me :)
 
 Whether that's optimising badminton footwork so I can beat my friends, an app to help me figure out what to cook for dinner, or finding the best spots to stargaze, I like working on projects end to end: understanding the problem, exploring and learning through different approaches and then making something I (and others!) can use.
