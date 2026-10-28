@@ -13,6 +13,7 @@ Overall I'm a pretty big fan of modelling and machine learning (MENACE is pretty
 Away from a screen, you'll probably find me playing badminton, baking, hiking or making dorodango.
 
 Currently: Data and AI Winter/Fall intern @ **TikTok**
+
 Previously: SWE Intern @ **NatWest Group** ·  Data Science/SDE Intern @ **IQVIA** ·  Technology Intern @ **Subsea7**
 
 ---
