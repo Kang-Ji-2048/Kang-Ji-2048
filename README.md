@@ -25,17 +25,6 @@ Previously: SWE Intern @ **NatWest Group** ·  Data Science/SDE Intern @ **IQVIA
 - **Data engineering**: ETL pipelines across 5,000+ hospital datasets, cutting collection time by 45%; automated scraping of 2,000+ hospital websites (Selenium, BeautifulSoup)
 - **Optimisation**: badminton footwork modelled as a TSP variant with Simulated Annealing, Ant Colony Optimisation and Concorde, cutting distance travelled per point by 24%
 
-
-### Featured projects
-
-| Project | Stack | What it does |
-|---------|-------|-------------|
-| [ScrollSaver](https://github.com/Kang-Ji-2048/canva-hackathon) <br>Canva Hackathon, 1st place | HTML, CSS, JavaScript, Canva Code | Friends pledge into a weekly pot and scroll less for a bigger share, with an itemised screen-time receipt every Sunday |
-| [AstroDuck](https://github.com/Kang-Ji-2048/aurora-air-quality-forecast) <br>NVIDIA × Lenovo Hackathon, 1st place | Python, PyTorch, Microsoft Aurora, NVIDIA DGX, React | Air-quality and atmospheric forecasting for 117 UK observatories, plus a React stargazing planner (the demo uses sample forecasts) |
-| [What Can I Cook?](https://github.com/Kang-Ji-2048/Google-Deepmind-X-Corgi) <br>Google DeepMind × Corgi Cafe | Next.js, TypeScript, Tailwind CSS, Gemma | Turns fridge and pantry photos into source-backed recipes, filtered by cuisine, cooking time and dietary needs |
-| [Manifest — Selective Disclosure](https://github.com/Kang-Ji-2048/manifest-selective-disclosure) <br>UCL Innovation Fest 2026 | React, Vite, ZK proofs, BBS+, differential privacy | Privacy-preserving selective-disclosure prototype for Amnesty International APAC: shows collective impact without exposing witnesses |
-| [F1 Data Pipeline](https://github.com/Kang-Ji-2048/f1-pipeline) | Python, PostgreSQL, SQLAlchemy, Pydantic, Docker, Streamlit | End-to-end pipeline ingesting & transforming Formula 1 race data, with a points-prediction model and dashboard — for my fantasy predictions :) |
-
 ### Favourite quotes
 
 > *I don't know anything, but I do know that everything is interesting if you go into it deeply enough.* — Richard Feynman
